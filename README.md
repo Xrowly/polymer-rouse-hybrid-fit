@@ -75,5 +75,6 @@ G''(ω) = Σ_p  η_p ω     / (1 + (ω λ_p)²)
 
 Cost function Κ = Σ [ (G'_exp − G'_model)²/G'_exp² + (G''_exp − G''_model)²/G''_exp² ]
 ```
+all the results for the default `data.csv` data is in the test result directory.
 License
 MIT – use, modify and share freely.
